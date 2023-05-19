@@ -1,5 +1,5 @@
 <h1 align="center">Mauricio Calderón</h1>
-<h3 align="center">Full Stack Developer apasionado en crear soluciones eficientes y escalables, apoyándome en tecnologías como React, Node, Javascript, Redux, Express, Sequelize, buen manejo en la resolución de problemas, trabajo en equipo, comunicación y autonomía.</h3>
+<h3 align="center">Full Stack Developer apasionado en crear soluciones eficientes y escalables, apoyándome en tecnologías como React, Node, Javascript, Redux, Express, Sequelize, adicionalmente tengo un buen manejo en la resolución de problemas, trabajo en equipo, comunicación y autonomía.</h3>
 
 - 🔭 Proyecto Individual (Henry Bootcamp) [PI Pokemon App](https://github.com/MCalderonTarazona/pokemon)
 
